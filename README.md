@@ -17,3 +17,6 @@
 ## 🛠 About Me
 🔹 7+ years of experience in **data analysis, developing business solutions, and business intelligence**  
 🔹 Skilled in **SQL, Python, A/B testing, NLP, ETL pipelines, and advanced analytics**
+
+## 📊 GitHub Stats
+...loading
