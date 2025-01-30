@@ -1,4 +1,4 @@
-+ # 👋 Hi, I'm Shraddha Jain!
+# 👋 Hi, I'm Shraddha Jain!
 
   💡 Data Science | Business Analytics | Product
 + 📊 Passionate about creating engaging business narratives that resonate, inform, and drive strategic decision-making.
