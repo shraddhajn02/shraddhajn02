@@ -18,5 +18,17 @@
 🔹 7+ years of experience in **data analysis, developing business solutions, and business intelligence**  
 🔹 Skilled in **SQL, Python, A/B testing, NLP, ETL pipelines, and advanced analytics**
 
+<!-- 
 ## 📊 GitHub Stats
 ...loading
+![Shraddha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
+-->
+
+<!--
+## 🚀 Featured Projects  
+🔹 [**Customer Sentiment Analysis**](https://github.com/your-repo) – NLP analysis on 20,000+ reviews for consumer insights  
+🔹 [**Risk & Coverage Optimization**](https://github.com/your-repo) – Clustering & geospatial analysis for insurance risk assessment  
+🔹 [**Revenue & Churn Prediction**](https://github.com/your-repo) – Machine learning model improving churn prediction accuracy by 40%  
+🔹 [**UberEats Data Visualization**](https://github.com/your-repo) – Tableau dashboards analyzing 10,000+ user reviews  
+-->
