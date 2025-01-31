@@ -25,8 +25,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
 -->
 
+
+## 🚀 Featured Projects
+🔹 💾 **SQL Project**
+[Car Rental Database System](https://github.com/shraddhajn02/CarRentalDatabase_Project)  
+SQL database design, queries, and business insights.
 <!--
-## 🚀 Featured Projects  
 🔹 [**Customer Sentiment Analysis**](https://github.com/your-repo) – NLP analysis on 20,000+ reviews for consumer insights  
 🔹 [**Risk & Coverage Optimization**](https://github.com/your-repo) – Clustering & geospatial analysis for insurance risk assessment  
 🔹 [**Revenue & Churn Prediction**](https://github.com/your-repo) – Machine learning model improving churn prediction accuracy by 40%  
