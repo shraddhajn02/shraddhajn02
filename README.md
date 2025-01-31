@@ -28,7 +28,7 @@
 
 ## 🚀 Featured Projects
 🔹 💾 **SQL Project**
-[Car Rental Database System](https://github.com/shraddhajn02/CarRentalDatabase_Project)  
+[Car Rental Database System](https://github.com/shraddhajn02/SQL-based-Car-Rental-Management-System)  
 SQL database design, queries, and business insights.
 <!--
 🔹 [**Customer Sentiment Analysis**](https://github.com/your-repo) – NLP analysis on 20,000+ reviews for consumer insights  
