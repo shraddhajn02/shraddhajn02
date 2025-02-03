@@ -30,6 +30,12 @@
 🔹 💾 **SQL Project**
 [Car Rental Database System](https://github.com/shraddhajn02/SQL-based-Car-Rental-Management-System)  
 SQL database design, queries, and business insights.
+
+🔹📊 **Python based User Review Analysis**
+[User Review Analysis](https://github.com/shraddhajn02/User-Review-Analysis)  
+Data science and text processing techniques, including, text mining, sentiment analysis, and visualization to extract key insights and improve the co-op experience.
+
+
 <!--
 🔹 [**Customer Sentiment Analysis**](https://github.com/your-repo) – NLP analysis on 20,000+ reviews for consumer insights  
 🔹 [**Risk & Coverage Optimization**](https://github.com/your-repo) – Clustering & geospatial analysis for insurance risk assessment  
