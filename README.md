@@ -35,6 +35,9 @@ SQL database design, queries, and business insights.
 [User Review Analysis](https://github.com/shraddhajn02/User-Review-Analysis)  
 Data science and text processing techniques, including, text mining, sentiment analysis, and visualization to extract key insights and improve the co-op experience.
 
+🔹📊 **Machine Learning Project**
+[Restaurant Revenue Prediction](https://github.com/YOUR_GITHUB_USERNAME/restaurant-revenue-prediction)  
+Machine learning, feature engineering, and exploratory data analysis (EDA). Implemented Random Forest, Gradient Boosting, and other models to optimize predictions.
 
 <!--
 🔹 [**Customer Sentiment Analysis**](https://github.com/your-repo) – NLP analysis on 20,000+ reviews for consumer insights  
