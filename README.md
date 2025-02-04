@@ -39,6 +39,11 @@ Data science and text processing techniques, including, text mining, sentiment a
 [Restaurant Revenue Prediction](https://github.com/YOUR_GITHUB_USERNAME/restaurant-revenue-prediction)  
 Machine learning, feature engineering, and exploratory data analysis (EDA). Implemented Random Forest, Gradient Boosting, and other models to optimize predictions.
 
+🔹⏳ **Time Series Forecasting Project**
+[Monthly Retail Sales Prediction](https://github.com/shraddhajn02/Monthly-Retail-Sales-Prediction) <br>
+Multiple time series forecasting models to predict retail sales trends using **SARIMA, ETS, TSLM, and STL decomposition**.
+Data preprocessing, exploratory data analysis (EDA), and model evaluation to select the most accurate forecasting approach.
+
 <!--
 🔹 [**Customer Sentiment Analysis**](https://github.com/your-repo) – NLP analysis on 20,000+ reviews for consumer insights  
 🔹 [**Risk & Coverage Optimization**](https://github.com/your-repo) – Clustering & geospatial analysis for insurance risk assessment  
