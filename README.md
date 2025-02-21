@@ -27,13 +27,15 @@
 
 
 ## 🚀 Featured Projects
-🔹 💾 **SQL Project**
-[Car Rental Database System](https://github.com/shraddhajn02/SQL-based-Car-Rental-Management-System)  
-SQL database design, queries, and business insights.
 
 🔹📊 **Python based User Review Analysis**
 [User Review Analysis](https://github.com/shraddhajn02/User-Review-Analysis)  
 Data science and text processing techniques, including, text mining, sentiment analysis, and visualization to extract key insights and improve the co-op experience.
+
+🔹⏳ **Clustering & Geospatial Analysis**
+[Segmentation for Risk and Coverage Optimization](https://github.com/shraddhajn02/Clustering-Risk-Coverage-Optimization) <br>
+K-Means clustering and geospatial analytics to assess flood risk and optimize insurance coverage.
+Precisely's Geoaddressing, FloodRisk, and PropertyAttributesByAddress APIs for flood zone classifications, elevation, and structural attributes.
 
 🔹📊 **Machine Learning Project**
 [Restaurant Revenue Prediction](https://github.com/YOUR_GITHUB_USERNAME/restaurant-revenue-prediction)  
@@ -44,10 +46,10 @@ Machine learning, feature engineering, and exploratory data analysis (EDA). Impl
 Multiple time series forecasting models to predict retail sales trends using **SARIMA, ETS, TSLM, and STL decomposition**.
 Data preprocessing, exploratory data analysis (EDA), and model evaluation to select the most accurate forecasting approach.
 
-🔹⏳ **Clustering & Geospatial Analysis**
-[Segmentation for Risk and Coverage Optimization](https://github.com/shraddhajn02/Clustering-Risk-Coverage-Optimization) <br>
-K-Means clustering and geospatial analytics to assess flood risk and optimize insurance coverage.
-Precisely's Geoaddressing, FloodRisk, and PropertyAttributesByAddress APIs for flood zone classifications, elevation, and structural attributes. 
+🔹 💾 **SQL Project**
+[Car Rental Database System](https://github.com/shraddhajn02/SQL-based-Car-Rental-Management-System)  
+SQL database design, queries, and business insights.
+
 <!--
 🔹 [**Customer Sentiment Analysis**](https://github.com/your-repo) – NLP analysis on 20,000+ reviews for consumer insights  
 🔹 [**Risk & Coverage Optimization**](https://github.com/your-repo) – Clustering & geospatial analysis for insurance risk assessment  
