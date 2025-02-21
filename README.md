@@ -44,6 +44,10 @@ Machine learning, feature engineering, and exploratory data analysis (EDA). Impl
 Multiple time series forecasting models to predict retail sales trends using **SARIMA, ETS, TSLM, and STL decomposition**.
 Data preprocessing, exploratory data analysis (EDA), and model evaluation to select the most accurate forecasting approach.
 
+🔹⏳ **Clustering & Geospatial Analysis**
+[Segmentation for Risk and Coverage Optimization](https://github.com/shraddhajn02/Clustering-Risk-Coverage-Optimization) <br>
+K-Means clustering and geospatial analytics to assess flood risk and optimize insurance coverage.
+Precisely's Geoaddressing, FloodRisk, and PropertyAttributesByAddress APIs for flood zone classifications, elevation, and structural attributes. 
 <!--
 🔹 [**Customer Sentiment Analysis**](https://github.com/your-repo) – NLP analysis on 20,000+ reviews for consumer insights  
 🔹 [**Risk & Coverage Optimization**](https://github.com/your-repo) – Clustering & geospatial analysis for insurance risk assessment  
