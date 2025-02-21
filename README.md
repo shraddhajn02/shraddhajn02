@@ -33,7 +33,7 @@
 Data science and text processing techniques, including, text mining, sentiment analysis, and visualization to extract key insights and improve the co-op experience.
 
 🔹⏳ **Clustering & Geospatial Analysis**
-[Segmentation for Risk and Coverage Optimization](https://github.com/shraddhajn02/Clustering-Geospatial-Analytics)) <br>
+[Segmentation for Risk and Coverage Optimization](https://github.com/shraddhajn02/Clustering-Geospatial-Analytics) <br>
 K-Means clustering and geospatial analytics to assess flood risk and optimize insurance coverage.
 Precisely's Geoaddressing, FloodRisk, and PropertyAttributesByAddress APIs for flood zone classifications, elevation, and structural attributes.
 
