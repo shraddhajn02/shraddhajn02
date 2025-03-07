@@ -3,8 +3,7 @@
 
   💡 Data Science | Business Analytics | Product <br>
 + Passionate about creating engaging business narratives that resonate, inform, and drive strategic decision-making.
-+ Experienced in **Analytics, SQL, Python, Tableau, ETL, A/B Testing, ML, and Cloud**  
-+ Exploring the domains of **Data Science and Product Management(Tech)**
++ Experienced in **Analytics, SQL, Python, Power BI, Tableau, ETL, A/B Testing, ML, and Cloud**
 
 ---
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -26,17 +25,21 @@
 
 ## 🚀 Featured Projects
 
-🔹📊 **Python based User Review Analysis**
-[User Review Analysis](https://github.com/shraddhajn02/User-Review-Analysis)  
-Data science and text processing techniques, including, text mining, sentiment analysis, and visualization to extract key insights and improve the co-op experience.
-
 🔹⏳ **Clustering & Geospatial Analysis**
 [Segmentation for Risk and Coverage Optimization](https://github.com/shraddhajn02/Clustering-Geospatial-Analytics) <br>
 K-Means clustering and geospatial analytics to assess flood risk and optimize insurance coverage.
 Precisely's Geoaddressing, FloodRisk, and PropertyAttributesByAddress APIs for flood zone classifications, elevation, and structural attributes.
 
+🔹📊 **Python based User Review Analysis**
+[User Review Analysis](https://github.com/shraddhajn02/User-Review-Analysis)  
+Data science and text processing techniques, including, text mining, sentiment analysis, and visualization to extract key insights and improve the co-op experience.
+
+🔹📊 **Predictive Analytics**
+[Customer Churn Prediction](https://github.com/shraddhajn02/Customer-Churn-Prediction) <br>
+Supervised learning, predictive modeling, feature engineering, Data Preprocessing, One-hot encoding, time-based segmentation, AUC, cross-validation, ROC curve analysis to derive actionable insights from customer data.
+
 🔹📊 **Machine Learning Project**
-[Restaurant Revenue Prediction](https://github.com/YOUR_GITHUB_USERNAME/restaurant-revenue-prediction)  
+[Restaurant Revenue Prediction](https://github.com/shraddhajn02/restaurant-revenue-prediction)  
 Machine learning, feature engineering, and exploratory data analysis (EDA). Implemented Random Forest, Gradient Boosting, and other models to optimize predictions.
 
 🔹⏳ **Time Series Forecasting Project**
@@ -48,9 +51,7 @@ Data preprocessing, exploratory data analysis (EDA), and model evaluation to sel
 [Car Rental Database System](https://github.com/shraddhajn02/SQL-based-Car-Rental-Management-System)  
 SQL database design, queries, and business insights.
 
-<!--
-🔹 [**Customer Sentiment Analysis**](https://github.com/your-repo) – NLP analysis on 20,000+ reviews for consumer insights  
-🔹 [**Risk & Coverage Optimization**](https://github.com/your-repo) – Clustering & geospatial analysis for insurance risk assessment  
+<!--  
 🔹 [**Revenue & Churn Prediction**](https://github.com/your-repo) – Machine learning model improving churn prediction accuracy by 40%  
 🔹 [**UberEats Data Visualization**](https://github.com/your-repo) – Tableau dashboards analyzing 10,000+ user reviews  
 -->
